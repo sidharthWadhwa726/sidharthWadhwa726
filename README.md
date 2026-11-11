@@ -98,9 +98,15 @@ I’m **Sidharth**, an Electrical Engineering undergraduate at **IIT Jammu (2028
 
 > I care more about shipping useful code than optimizing contribution charts. Browse the repositories above or [explore my public activity](https://github.com/sidharthWadhwa726?tab=overview).
 
-<!-- After enabling the optional snake workflow from SETUP.md, insert the animation here.
-<p align="center"><img src="https://raw.githubusercontent.com/sidharthWadhwa726/sidharthWadhwa726/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" /></p>
--->
+<h2 align="center">GitHub Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sidharthWadhwa726/sidharthWadhwa726/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
 
 ### `06 / Contact`
 
@@ -108,7 +114,7 @@ I’m **Sidharth**, an Electrical Engineering undergraduate at **IIT Jammu (2028
 
 <p align="center">
   <a href="mailto:wadhwasidharth84@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/sidharth-wadhwa-664662319/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/sidharth-664662319/">LinkedIn</a> ·
   <a href="https://github.com/sidharthWadhwa726">GitHub</a> ·
   <a href="https://codeforces.com/profile/sidharth_wadhwa">Codeforces</a>
 </p>
